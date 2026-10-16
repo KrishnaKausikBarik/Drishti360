@@ -30,4 +30,3 @@ Drishti360/
 ├── presentation/
 │   └── Drishti360_executive_deck.pdf
 ├── README.md
-└── LICENSE
