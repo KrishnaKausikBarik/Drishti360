@@ -1,4 +1,4 @@
-# Drishti360: End-to-End Customer Shopping Intelligence Platform
+# Drishti360: Customer Shopping Intelligence Dashboard
 
 **Drishti360** represents a complete, industry-standard, end-to-end data analytics workflow designed to provide a 360-degree vision into modern consumer behavior. The project mirrors the real-world responsibilities of professional data analysts, spanning data preparation, feature engineering, relational database modeling, business logic querying, and executive reporting.
 
